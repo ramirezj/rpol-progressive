@@ -1,5 +1,10 @@
 {
  "name": "RPoL-Progressive",
+ "start_url": "./?utm_source=manifest",
+ "short_name": "RPoL-P",
+ "display": "standalone",
+ "background_color": "#F6FFFE",
+ "theme_color": "#00449E",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
